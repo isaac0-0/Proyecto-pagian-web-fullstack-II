@@ -1,0 +1,12 @@
+.titulo-tienda {
+    background-color: #16cf20a2;   
+    color: rgb(0, 0, 0);
+    width: 100%;                 
+    height: 60px;
+    line-height: 60px;           
+    font-size: 28px;
+    font-family: Arial, sans-serif;
+    padding-left: 20px;          
+    margin: 0;                   
+}
+
